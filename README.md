@@ -4,7 +4,7 @@
 This application is a movies apllication for movies currently playing in theaters. It display movies cureently playing in the theaters, what theaters they are playing in and reviews for the movie.
  
   ![screenshot](/we-love-movies.jpg)
-> [Live Demo](https://my-movies-client.herokuapp.com/movies)
+> [Live Demo](https://my-movies-client.herokuapp.com)
 
 ## User 
 The intended user of this application is anyone who likes movies
